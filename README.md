@@ -67,7 +67,12 @@
 </p>
 
 ---
-
+<!-- Snake-->
+<div align="center">
+  
+  ![snake gif](https://github.com/Swati7684/Swati7684/blob/output/github-snake-dark.svg)
+</div>
+  
 ## 🎯 Currently Learning
 
 - HTML, CSS, JavaScript (Frontend stack)
